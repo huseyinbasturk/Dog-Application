@@ -42,10 +42,9 @@ h1 {
 
 #img{
     display: block;
-  margin-left: 30%;
-  margin-right: auto;
-  max-width: 80%;
-  max-height: 80vh;
+    margin-left: 30%;
+    margin-right: auto;
+    max-width: 80%;
+    max-height: 80vh;
   
-
 }
